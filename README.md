@@ -1,7 +1,8 @@
 # WebSistemaSolar
 Demostración sencilla del uso WebGL usando Three.js (https://github.com/mrdoob/three.js/).
 
-http://blog.pucp.edu.pe/blog/tito/wp-content/uploads/sites/610/2018/03/Sin-título-14.png
+![SynFacilCompletion](http://blog.pucp.edu.pe/blog/tito/wp-content/uploads/sites/610/2018/03/Sin-título-14.png "Imagen Sistema Solar")
+
 
 Esta demostración del uso de WebGL, hace uso de la librería Three.js, para la creación y animación de un sistema planetario con solo 4 planetas.
 
